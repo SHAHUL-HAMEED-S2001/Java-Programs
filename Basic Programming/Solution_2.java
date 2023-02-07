@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Solution_1{
+class Solution_2{
     public static void main(String[] args) {
         System.out.println("Java Program to Check if a Given Integer is Odd or Even");
         Scanner sc = new Scanner(System.in);
