@@ -1,4 +1,5 @@
 // Check if a Given Integer is Odd or Even
+
 import java.util.Scanner;
 
 public class Solution_2 {
